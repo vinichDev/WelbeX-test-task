@@ -1,0 +1,5 @@
+**/node_modules
+
+# ignore ide files anywhere
+**/.idea
+**/.vscode
